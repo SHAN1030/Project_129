@@ -1,0 +1,55 @@
+.heading{
+    background-color:lightseagreen;
+    font-size:50px;
+    font-weight: bolder;
+    color:black;
+    width:100%;
+    margin:0px;
+}
+
+.note{
+    font-size:25px;
+    color:black;
+}
+
+h3{
+    font-size:50px;
+    font-weight:bold;
+    color:white;
+}
+
+body{
+    background-size:cover;
+}
+
+button{
+    background:purple;
+    color:white;
+    font-weight:bolder;
+}
+
+canvas{
+    background-color:#000000;
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;  
+    margin-top:150px; 
+}
+
+.div_speed{
+    float:left;
+}
+
+.div_speed_img{
+    width:400px;
+    border-radius:200px;
+}
+
+.div_volume{
+    float:right;
+}
+
+.div_volume_img{
+    width:400px;
+    border-radius:200px;
+}
